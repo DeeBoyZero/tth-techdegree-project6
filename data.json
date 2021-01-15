@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "A simple random quote generator in Javascript",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://deeboyzero.github.io/tth-techdegree-unit1/index.html",
+      "github_link": "https://github.com/DeeBoyZero/tth-techdegree-unit1",
+      "image_urls": ["/static/images/randomQuote1.png", "/static/images/randomQuote2.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "Student List app",
+      "description": "Web interface to display a list of students",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://deeboyzero.github.io/tth-techdegree-project2/",
+      "github_link": "https://github.com/DeeBoyZero/tth-techdegree-project2",
+      "image_urls": ["/static/images/studentList1.png", "/static/images/studentList2.png"]
+    },
+    {
+      "id": 2,
+      "project_name": "Form Validator",
+      "description": "A simple form containing multiple validators",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://deeboyzero.github.io/tth-techdegree-project3/",
+      "github_link": "https://github.com/DeeBoyZero/tth-techdegree-project3",
+      "image_urls": ["/static/images/form1.png", "/static/images/form2.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "Phrase Hunter",
+      "description": "A game where player needs to find the hidden phrase with limited tries.",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://deeboyzero.github.io/tth-techdegree-project4/",
+      "github_link": "https://github.com/DeeBoyZero/tth-techdegree-project4",
+      "image_urls": ["/static/images/phraseHunter1.png", "/static/images/phraseHunter2.png"]
+    },
+    {
+      "id": 4,
+      "project_name": "Employees Directory",
+      "description": "An app that display an employees directory with search function enabled. Using public API for data",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://deeboyzero.github.io/tth-techdegree-project5/index.html",
+      "github_link": "https://github.com/DeeBoyZero/tth-techdegree-project5",
+      "image_urls": ["/static/images/employeeDirectory1.png", "/static/images/employeeDirectory2.png"]
+    }
+  ]
+}
