@@ -1,8 +1,8 @@
 extends layout.pug
 
 block content
-    section.not-found
+    section.error
         p= `${err.message} - ${err.status}`
-        img.not-found-img(src='/static/images/not-found.png' alt='Sad cat picture')
+        img.error-img(src='/static/images/error.jpg' alt='Pug in a blanket')
         br
         a(href='/') ← Back

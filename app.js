@@ -32,7 +32,7 @@ app.use((err, req, res, next) => {
       res.status = 404;
       res.render('page-not-found', {err});
     } else {
-      err.message = err.message || `Oops! Something went wrong on the server.`;
+      err.message = err.message || `Oops! Something went wrong on the server`;
       res.status(err.status || 500)
       console.log(`${err.message} - Error: ${err.status}`); 
       res.render('error', {err});

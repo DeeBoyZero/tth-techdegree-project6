@@ -151,7 +151,7 @@ a:hover{
 
 
 /* 
-  Page not fount styles
+  Page not found and error styles
 */
 .not-found {
   margin: 10px auto;
@@ -163,6 +163,20 @@ a:hover{
 }
 
 .not-found-img {
+  max-width: 350px;
+  border-radius: 10%;
+}
+
+.error {
+  margin: 10px auto;
+  text-align: center;
+}
+
+.error p, a{
+  font-size: 2rem;
+}
+
+.error-img {
   max-width: 350px;
   border-radius: 10%;
 }

@@ -45,5 +45,12 @@ router.get('/projects/:id', (req, res) => {
     }
 });
 
+// Demo route to test error 500
+// router.get('/error', (req, res) => {
+//     const err = new Error();
+//     err.status = 500;
+//     throw err;
+// });
+
 // export the router module
 module.exports = router;
