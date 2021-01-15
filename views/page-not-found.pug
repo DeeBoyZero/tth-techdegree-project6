@@ -1,0 +1,8 @@
+extends layout.pug
+
+block content
+    section.not-found
+        p= `${err.message} - ${err.status}`
+        img.not-found-img(src='/static/images/not-found.png' alt='Sad cat picture')
+        br
+        a(href='/') ← Back

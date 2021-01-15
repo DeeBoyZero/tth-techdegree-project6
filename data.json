@@ -7,7 +7,7 @@
       "technologies": ["HTML", "CSS", "Javascript"],
       "live_link": "https://deeboyzero.github.io/tth-techdegree-unit1/index.html",
       "github_link": "https://github.com/DeeBoyZero/tth-techdegree-unit1",
-      "image_urls": ["/static/images/randomQuote1.png", "/static/images/randomQuote2.png"]
+      "image_urls": ["/static/images/randomQuote1.png", "/static/images/randomQuote2.png", "/static/images/randomQuote3.png", "/static/images/randomQuote4.png"]
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "technologies": ["HTML", "CSS", "Javascript"],
       "live_link": "https://deeboyzero.github.io/tth-techdegree-project2/",
       "github_link": "https://github.com/DeeBoyZero/tth-techdegree-project2",
-      "image_urls": ["/static/images/studentList1.png", "/static/images/studentList2.png"]
+      "image_urls": ["/static/images/studentList1.png", "/static/images/studentList2.png","/static/images/studentList3.png", "/static/images/studentList4.png"]
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "technologies": ["HTML", "CSS", "Javascript"],
       "live_link": "https://deeboyzero.github.io/tth-techdegree-project3/",
       "github_link": "https://github.com/DeeBoyZero/tth-techdegree-project3",
-      "image_urls": ["/static/images/form1.png", "/static/images/form2.png"]
+      "image_urls": ["/static/images/form1.png", "/static/images/form2.png", "/static/images/form3.png", "/static/images/form4.png" ]
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "technologies": ["HTML", "CSS", "Javascript"],
       "live_link": "https://deeboyzero.github.io/tth-techdegree-project4/",
       "github_link": "https://github.com/DeeBoyZero/tth-techdegree-project4",
-      "image_urls": ["/static/images/phraseHunter1.png", "/static/images/phraseHunter2.png"]
+      "image_urls": ["/static/images/phraseHunter1.png", "/static/images/phraseHunter2.png", "/static/images/phraseHunter3.png", "/static/images/phraseHunter4.png"]
     },
     {
       "id": 4,
@@ -43,7 +43,7 @@
       "technologies": ["HTML", "CSS", "Javascript"],
       "live_link": "https://deeboyzero.github.io/tth-techdegree-project5/index.html",
       "github_link": "https://github.com/DeeBoyZero/tth-techdegree-project5",
-      "image_urls": ["/static/images/employeeDirectory1.png", "/static/images/employeeDirectory2.png"]
+      "image_urls": ["/static/images/employeeDirectory1.png", "/static/images/employeeDirectory2.png", "/static/images/employeeDirectory3.png", "/static/images/employeeDirectory4.png"]
     }
   ]
 }
