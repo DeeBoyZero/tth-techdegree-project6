@@ -1,6 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@700&display=swap');
 
-h1,h2,h3,h4,h5,p{
+h2,h3,h4,h5,p{
   font-family: 'Merriweather', serif;
+}
+
+h1 {
+  text-shadow: 2px 2px 4px #555;
+  font-family: 'Syncopate', sans-serif;
+  text-transform: uppercase;
+}
+
+body {
+  background: #f5f4f4;
 }
 
   h5{
@@ -8,6 +19,7 @@ h1,h2,h3,h4,h5,p{
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
+    /* text-shadow: 2px 2px 4px #000000; */
   }
 
   h6{
@@ -58,7 +70,7 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #0d335d;
   color: #fff;
   box-shadow: none !important;
 }
@@ -71,7 +83,7 @@ a:hover{
   .portfolio-me a{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: #f5f4f4;
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
