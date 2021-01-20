@@ -40,6 +40,6 @@ app.use((err, req, res, next) => {
 });
 
 // Setup the listening port for the app
-app.listen(`${port}`, () => {
+app.listen(process.env.PORT || `${port}`, () => {
     console.log(`The app is listening on port: ${port}`);
 });
